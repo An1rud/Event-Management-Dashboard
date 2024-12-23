@@ -26,8 +26,11 @@ The Event Manager Application is a web application designed to help users manage
   - JSON Web Tokens (JWT) for authentication
 
 ## Demo
+Check out the live demo of the project:  
+[View Demo](https://drive.google.com/file/d/1gFJg5whBXzCXDK2aQEPbByU68pRUAs8m/view?usp=sharing)
 
-![Working of the application](gif/demo.gif)
+![Demo Preview](https://drive.google.com/file/d/1gFJg5whBXzCXDK2aQEPbByU68pRUAs8m/view?usp=sharing) <!-- Replace with an actual image link -->
+
 
 
 ## Prerequisites
