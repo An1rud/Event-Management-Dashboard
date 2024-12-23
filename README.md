@@ -29,10 +29,6 @@ The Event Manager Application is a web application designed to help users manage
 Check out the live demo of the project:  
 [View Demo](https://drive.google.com/file/d/1gFJg5whBXzCXDK2aQEPbByU68pRUAs8m/view?usp=sharing)
 
-![Demo Preview](https://drive.google.com/file/d/1gFJg5whBXzCXDK2aQEPbByU68pRUAs8m/view?usp=sharing) <!-- Replace with an actual image link -->
-
-
-
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
