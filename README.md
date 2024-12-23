@@ -25,6 +25,11 @@ The Event Manager Application is a web application designed to help users manage
   - MongoDB with Mongoose
   - JSON Web Tokens (JWT) for authentication
 
+## Demo
+
+![Working of the application](gif/demo.gif)
+
+
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
